@@ -21,10 +21,6 @@
 </project>
  <description>Maven Web Project for Java Project</description>
 
-        <organization>
-                <name>Landmark Technologies</name>
-                <url>http://landmarktechnologies.com/</url>
-        </organization>
 
         <properties>
                 <jdk.version>1.8</jdk.version>
